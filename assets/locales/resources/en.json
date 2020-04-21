@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "settings_language": "Language",
+    "settings_language_change_language": "Change Language",
+
+    "bottom_tab_home": "Home",
+    "bottom_tab_feed": "Feed",
+    "bottom_tab_notification": "Notification",
+    "bottom_tab_settings": "Settings"
+  }
+}
